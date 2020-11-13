@@ -13,4 +13,10 @@ Widgets Adicionales:
 2. MessageBox: En caso de que ningún numero haya sido ingresado al seleccionar una raíz.
 3. Notebook Widget: Pestañas para diferentes funciones de la calculadora. 
 
+Imágenes:
+
+![Calculadora principal](Calculadora_imagen_1.png)
+
+![Ventana de error](Calculadora_imagen_2.png)
+
   
