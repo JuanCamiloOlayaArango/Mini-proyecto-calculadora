@@ -1,6 +1,6 @@
 Taller 1: Mini proyecto calculadora.
 
-Estudiante: Yuli Tatiana Infante Ruiz
+Estudiante: Juan Camilo Olaya Arango
 
 Grupo 12
 
